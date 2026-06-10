@@ -1,0 +1,15 @@
+file,iterative,flow,agreement
+edge_1x1_clue0.txt,NO_LOOP,UNSAT,False
+edge_1x1_clue2.txt,UNSAT,UNSAT,True
+edge_2x2_checkerboard_03.txt,UNSAT,UNSAT,True
+edge_2x2_corner_trap.txt,UNSAT,UNSAT,True
+edge_center3_surrounded0.txt,UNSAT,UNSAT,True
+puzzle_10x10_unsat_1.txt,NO_LOOP,UNSAT,False
+puzzle_10x10_unsat_2.txt,UNSAT,UNSAT,True
+puzzle_15x15_unsat_1.txt,NO_LOOP,UNSAT,False
+puzzle_15x15_unsat_2.txt,UNSAT,UNSAT,True
+puzzle_20x20_unsat_1.txt,NO_LOOP,UNSAT,False
+puzzle_20x20_unsat_2.txt,UNSAT,UNSAT,True
+puzzle_5x5_corrupt_001.txt,UNSAT,UNSAT,True
+puzzle_7x7_unsat_1.txt,NO_LOOP,UNSAT,False
+puzzle_7x7_unsat_2.txt,UNSAT,UNSAT,True
