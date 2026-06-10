@@ -1,0 +1,11 @@
+# 5x5 Slitherlink puzzle — UNSAT instance
+# UNSAT 이유 / UNSAT reason: [타입2] 코너 함정 / Corner trap
+#   셀(0,0)=3, 오른쪽(0,1)=0, 아래(1,0)=0
+#   → 공유 엣지 v[0][1]=0, h[1][0]=0 강제 → h[0][0]+v[0][0]=3 불가능
+#   Cell(0,0)=3, right(0,1)=0, bottom(1,0)=0
+#   → shared edges forced to 0 → needs binary sum=3 → impossible
+3 0 . . .
+0 . . . .
+. . 1 . .
+1 . . . 2
+. 2 . 2 .
